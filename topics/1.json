@@ -69,8 +69,8 @@
         {
             "type": "image",
             "data": "https://github.com/AAAlisher/2xApple.github.io/blob/main/kursch/A3.png?raw=true"
-        }
-          {
+        },
+        {
             "type": "text",
             "data": [
                 {
@@ -80,7 +80,7 @@
         },
         {
             "type": "image",
-            "data": "https://github.com/AAAlisher/2xApple.github.io/blob/main/kursch/A4.png?raw=true"
+            "data": "hhttps://github.com/AAAlisher/2xApple.github.io/blob/main/kursch/A4.png?raw=true"
         }
     ]
 }
