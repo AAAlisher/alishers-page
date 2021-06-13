@@ -1,14 +1,20 @@
 [
-    {
+     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "title": "IDEF0 диаграммы",
+        "description": "IDEF0 диаграммы курсового проекта",
+        "preview": "https://github.com/AAAlisher/2xApple.github.io/blob/main/kursch/A0-kont.png?raw=true"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "DFD диаграммы",
+        "description": "DFD диаграммы курсового проекта",
+        "preview": "https://github.com/AAAlisher/2xApple.github.io/blob/main/kursch/A31.png?raw=true"
+    },
+    {
+        "id": 3,
+        "title": "UML диаграммы",
+        "description": "UML диаграммы курсового проекта",
+        "preview": "https://camo.githubusercontent.com/b7d001bd8d787084af500c2db4c25dfdd0e979bbccf523ee3cc36c8a21a5b851/68747470733a2f2f73756e392d332e757365726170692e636f6d2f696d70672f4852586e647a32344f464241397747554e5a2d754d7674425a3458776158617356694d4a53772f46756d5a523561594f62492e6a70673f73697a653d38383178343632267175616c6974793d3936267369676e3d333533303737336630643832646135646365393231643736393136383032363126747970653d616c62756d"
     }
 ]
